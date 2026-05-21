@@ -2,7 +2,16 @@
   "default_route_id_enabled": "true",
   "use_route_short_name_for_route_id": "false",
   "route_id_cleanup_regex": "\\-[0-9A-Z]+$",
-  "route_colors": [],
+  "route_colors": [
+        {
+            "route_short_name": "1",
+            "color": "004B8D"
+        },
+        {
+            "route_short_name": "2",
+            "color": "8CC63F"
+        }
+  ],
   "route_colors_ignored": [
     "000000"
   ],
