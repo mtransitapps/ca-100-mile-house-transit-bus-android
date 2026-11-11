@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
     <string-array name="rss_feeds">
-        <item>https://www.bctransit.com/100-mile-house/feed/</item>
+        <item>https://www.bctransit.com/feed/?transit_system=100-mile-house</item>
         <item>https://www.bctransit.com/feed/</item>
         <!-- TODO? <item>https://www.bctransit.com/media/releases-and-advisories/feed/</item> -->
     </string-array>
@@ -14,8 +14,8 @@
         <item>@string/parent_agency_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.bctransit.com/100-mile-house/news/</item>
-        <item>https://www.bctransit.com/news/</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/?transit_system=100-mile-house</item>
+        <item>https://www.bctransit.com/news-and-media/releases-and-advisories/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>bctransit.com</item>
